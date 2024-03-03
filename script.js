@@ -1,3 +1,4 @@
-function hello(){
-	console.log('hello')
+function greet(){
+console.log("hello ,Good Morning")
 }
+
